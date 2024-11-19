@@ -1,0 +1,1 @@
+Zillow and Realtor publish their housing data to be available as CSVs, the code in this repo's notebooks act as a replicateable way to add geometries and convert to shapefiles for spatial analysis. Links / references to necessary datasets, instructions, and preliminary visualisations are included. 
